@@ -1,0 +1,1 @@
+# 🚀 tm-shared - Transfermarkt shared packages for microservices
